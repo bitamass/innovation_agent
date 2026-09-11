@@ -71,3 +71,8 @@ innovation_agent/
         │   └── SKILL.md
         └── experimentation-implementation/
             └── SKILL.md
+```
+
+## Status
+
+Early-stage prototype for professional development and concept validation. The current version establishes the Innovation Agent’s role, routing instructions, core skills, outputs, handoffs, and guardrails.
